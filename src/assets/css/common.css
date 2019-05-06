@@ -1,0 +1,99 @@
+.clear-both:after{
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+.ofh{
+    overflow: hidden;
+}
+.ml5 {
+    margin-left: 5px;
+}
+
+.mr5 {
+    margin-right: 5px;
+}
+.mb20{
+    margin-bottom: 20px;
+}
+.pt16{
+    padding-top: 16px;
+}
+.w100{
+    width: 100px;
+}
+.w200{
+    width: 200px !important;
+}
+.w130{
+    width: 130px;
+}
+.position-r {
+    position: relative;
+}
+
+.position-a {
+    position: absolute;
+}
+
+.position-f {
+    position: fixed;
+}
+
+.screen_content .el-input__inner {
+    color: #999999;
+    font-size: 12px;
+    border-radius: 15px !important;
+}
+
+.screen_content .el-input__inner::-webkit-input-placeholder {
+    color: #999999;
+}
+
+.screen_content .el-input__inner::-moz-placeholder {
+    /*Firefox*/
+    color: #999999;
+}
+
+.screen_content .el-input__inner::-ms-input-placeholder {
+    /*IE*/
+    color: #999999;
+}
+.screen_content .el-date-editor .el-range-input::-webkit-input-placeholder {
+    color: #999999;
+}
+.screen_content .el-date-editor .el-range-input::-moz-placeholder {
+    /*Firefox*/
+    color: #999999;
+}
+
+.screen_content .el-date-editor .el-range-input::-ms-input-placeholder {
+    /*IE*/
+    color: #999999;
+}
+/**/
+.el-checkbox{
+    font-size: 12px !important;
+    margin-bottom: 5px;
+}
+.el-checkbox__label{
+    color: #999999;
+    font-size: 12px !important;
+}
+.el-checkbox__inner{
+    top:-1px;
+    border-radius: 0px !important;
+}
+.no-border-ridius{
+    border-radius:0px !important;
+}

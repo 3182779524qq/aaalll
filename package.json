@@ -1,0 +1,33 @@
+{
+  "name": "JMTOOL",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-polyfill": "^6.23.0",
+    "echarts": "^4.1.0",
+    "element-ui": "2.4.11",
+    "es6-promise": "^4.2.4",
+    "js-md5": "^0.7.3",
+    "js-sha1": "^0.6.0",
+    "qiniu-js": "^2.5.3",
+    "qs": "^6.5.2",
+    "swiper": "^4.4.6",
+    "vue": "^2.5.17",
+    "vue-amap": "^0.5.8",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.2.0",
+    "@vue/cli-service": "^3.2.0",
+    "node-sass": "^4.9.0",
+    "mockjs": "^1.0.1-beta3",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
